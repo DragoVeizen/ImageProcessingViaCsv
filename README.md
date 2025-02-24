@@ -121,6 +121,12 @@ image-processing-backend/
 │── package.json
 │── README.md
 ```
+## Project Workflow 
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/9c682d55-6f54-4159-ac4f-2dbf69043828" />
+
+## Links
+- Link to Postman Collection : https://images-processing-via-csv.postman.co/workspace/Images-Processing-via-CSV-Works~49950b55-8e0e-488a-a311-1fc954b26d86/collection/37844804-dae69c93-169b-4826-9df1-13a5c86a699b?action=share&creator=37844804
+- Link to Google Doc (Documentation): https://docs.google.com/document/d/1JXG7RD-PI_742hKgiPVgtRGQdbmjj9QDA0llS9dcEJ8/edit?usp=sharing
 
 ## Future Improvements
 - Implement authentication
